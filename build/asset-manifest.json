@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1acc6f0.css",
+    "main.js": "/static/js/main.ea61497c.js",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.6b2242a8f217f419c36332c3b5ec0155.svg",
+    "static/media/github.svg": "/static/media/github.b92a4d73a35c58a3cece1abc5c713a77.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.cbf3eac958ddc5dcb0f7d9f741becd11.svg",
+    "main.d1acc6f0.css.map": "/static/css/main.d1acc6f0.css.map",
+    "main.ea61497c.js.map": "/static/js/main.ea61497c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1acc6f0.css",
+    "static/js/main.ea61497c.js"
+  ]
+}
